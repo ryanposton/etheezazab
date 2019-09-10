@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://sahfeevuk.moviestack.net/sitemap.xml
